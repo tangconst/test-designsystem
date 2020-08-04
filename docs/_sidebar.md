@@ -1,5 +1,5 @@
 * Getting Started
-    * [Overview](readme.md)
+    * [Overview](/)
 
 * Components
 	* Alert
