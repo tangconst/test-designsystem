@@ -1,7 +1,3 @@
-# Headline
+# Overview
 
-> An awesome project. This is Constance.
-
-!> **Important** content
-
-?> _TODO_ general tips
+> Writing design system with docsify. Work in process.

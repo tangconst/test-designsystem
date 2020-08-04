@@ -1,8 +1,5 @@
-![FindDoc Logo](https://d3muynxv4b3dfn.cloudfront.net/images/logo@2x.png?v=c72812cfce20f74af7bd278013a295fb)
-
 * Getting Started
-
-    * [Overview](/ "This is a title")
+    * [Overview](readme.md)
 
 * Components
 	* Alert
